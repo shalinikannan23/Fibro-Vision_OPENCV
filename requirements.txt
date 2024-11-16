@@ -197,3 +197,5 @@ xxhash==3.5.0
 yarg==0.1.9
 yarl==1.13.1
 zipp==3.20.2
+pywin32==306
+sys_platform == 'win32'

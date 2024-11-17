@@ -1,4 +1,4 @@
-# AI-Powered IPF Disease Progression Prediction
+# FIBROVISION:OPENCV POWERED INSIGHTS FOR IPF PROGRESSION
 
 ## Problem Statement
 
